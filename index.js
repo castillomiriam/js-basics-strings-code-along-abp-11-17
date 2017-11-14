@@ -8,7 +8,7 @@ const currentUser = 'Grace Hopper';
 
 ...
 
-const shortGreeting = '' ;
+const shortGreeting = 'Welcome, ' ;
 
 shortGreeting;
 //=> "Welcome, G!"
